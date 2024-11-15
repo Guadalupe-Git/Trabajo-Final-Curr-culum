@@ -1,0 +1,47 @@
+.gral{
+    display: flex;
+}
+.fondo{
+    width: 30vw;
+    height: 150vh;
+    background-color: rgb(129, 168, 251);
+}
+
+.romulo img{
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 10%;
+}
+.imagen{
+    width: 250px;
+    height: 250px;
+    background-color:rgb(90, 145, 248);
+    border-radius: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+    
+}
+.botonn{
+   background-color: rgb(37, 37, 233);
+   border-radius: 15px;
+   color: linen;
+   text-align: center;
+   text-decoration: none;
+   padding: 15px 30px;
+   font-weight: 700;
+}
+.boton{
+    margin-top: 3%;
+}
+.letrasF{
+    margin-top: 20%;
+    margin-left: 5%;
+}
+.letras{
+    margin-left: 5%;
+    margin-top: 10%;
+}
+body{
+    background-color: rgb(178, 211, 249);
+    margin: 0;
+}
